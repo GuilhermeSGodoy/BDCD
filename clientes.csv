@@ -1,0 +1,101 @@
+CPF,Nome,Endereco,MetodoPagamento,Email,Senha,Funcao
+36079709115,Ana Paula Souza,"Rua das Flores, 123 - Centro",credito,diana.almeida25@gmail.com,Senha1,adm
+57901750614,Luiz Carlos Santos,"Avenida dos Girassóis, 456 - Jardim das Acácias",debito,luciano.andrade67@hotmail.com,Senha2,usuario
+98816098937,Fernanda Castro,"Rua do Sol, 789 - Praia do Sol",pix,marcela.araujo48@outlook.com,Senha3,usuario
+28622425923,Rodrigo Silva,"Rua dos Pássaros, 321 - Parque dos Pássaros",boleto,bruno.barbosa91@gmail.com,Senha4,usuario
+16806349128,Marina Alves,"Rua dos Pinheiros, 654 - Vila Pinheiros",credito,camila.borges84@yahoo.com.br,Senha5,usuario
+92672228109,Gustavo Lima,"Avenida das Rosas, 987 - Jardim das Rosas",debito,carlos.cabral33@hotmail.com,Senha6,usuario
+87799143891,Juliana Oliveira,"Rua das Margaridas, 234 - Jardim das Margaridas",pix,juliana.campos52@bol.com.br,Senha7,usuario
+42439130484,Rafaela Fernandes,"Rua das Orquídeas, 567 - Jardim das Orquídeas",boleto,pedro.cardoso28@gmail.com,Senha8,usuario
+55783885092,Bruno Costa,"Avenida dos Ipês, 890 - Parque dos Ipês",credito,leonardo.carvalho94@outlook.com,Senha9,usuario
+63971118704,Isabela Pereira,"Rua das Águias, 123 - Jardim das Águias",debito,luana.castilho67@yahoo.com.br,Senha10,usuario
+48564728898,Ricardo Marques,"Rua dos Gaviões, 456 - Parque dos Gaviões",pix,fernanda.cavalcanti77@hotmail.com,Senha11,adm
+59099440103,Mariana Lima,"Avenida das Araras, 789 - Jardim das Araras",boleto,gabriel.correia14@gmail.com,Senha12,usuario
+74066905417,Thiago Carvalho,"Rua das Borboletas, 321 - Parque das Borboletas",credito,beatriz.costa95@outlook.com,Senha13,usuario
+31800392583,Vanessa Ribeiro,"Rua dos Flamboyants, 654 - Vila Flamboyant",debito,joao.couto64@yahoo.com.br,Senha14,usuario
+72278628920,Eduardo Rodrigues,"Avenida das Acácias, 987 - Jardim das Acácias",pix,laura.cruz22@hotmail.com,Senha15,usuario
+96718113967,Gabriela Nunes,"Rua das Palmeiras, 234 - Vila Palmeiras",boleto,marcos.dias87@gmail.com,Senha16,usuario
+50114624914,Lucas Santos,"Rua dos Coqueiros, 567 - Parque dos Coqueiros",credito,renata.faria61@outlook.com,Senha17,usuario
+22075878319,Luana Ferreira,"Avenida dos Flamengos, 890 - Jardim dos Flamengos",debito,thiago.felix40@yahoo.com.br,Senha18,usuario
+97908300492,Victor Santos,"Rua das Jabuticabeiras, 123 - Vila Jabuticabeiras",pix,ana.ferreira76@hotmail.com,Senha19,usuario
+34413089952,Letícia Ribeiro,"Rua das Mangueiras, 456 - Vila das Mangueiras",boleto,rodrigo.figueiredo19@gmail.com,Senha20,usuario
+42692167458,Diego Almeida,"Avenida das Tangerinas, 789 - Jardim das Tangerinas",credito,isabela.freitas26@outlook.com,Senha21,adm
+79445202193,Bruna Costa,"Rua das Laranjeiras, 321 - Vila Laranjeiras",debito,guilherme.gomes54@yahoo.com.br,Senha22,usuario
+39190255980,Guilherme Mendes,"Rua dos Limoeiros, 654 - Parque dos Limoeiros",pix,bruna.goncalves32@hotmail.com,Senha23,usuario
+73403618739,Camila Oliveira,"Avenida das Bananeiras, 987 - Jardim das Bananeiras",boleto,diego.granado48@gmail.com,Senha24,usuario
+21908165407,Paulo Henrique Almeida,"Rua das Amoreiras, 234 - Vila das Amoreiras",credito,patricia.lima64@outlook.com,Senha25,usuario
+26346510830,Natália Rodrigues,"Rua dos Cactos, 567 - Parque dos Cactos",debito,marcelo.lopes59@yahoo.com.br,Senha26,usuario
+83984765524,Alexandre Castro,"Avenida das Azaleias, 890 - Jardim das Azaleias",pix,aline.macedo84@hotmail.com,Senha27,usuario
+18629600739,Jéssica Silva,"Rua das Dálias, 123 - Vila das Dálias",boleto,mariana.martins17@gmail.com,Senha28,usuario
+44853641617,João Pedro Alves,"Rua das Hortênsias, 456 - Jardim das Hortênsias",credito,paulo.melo83@outlook.com,Senha29,usuario
+66252907798,Heloísa Lima,"Avenida das Violetas, 789 - Vila das Violetas",debito,lucas.mendes76@yahoo.com.br,Senha30,usuario
+83724978746,Gabriel Costa,"Rua dos Narcisos, 321 - Parque dos Narcisos",pix,marina.miranda35@hotmail.com,Senha31,adm
+11098403364,Isadora Cardoso,"Rua das Tulipas, 654 - Vila das Tulipas",boleto,daniel.nascimento10@gmail.com,Senha32,usuario
+54555502305,Marcos Oliveira,"Avenida das Margaridas, 987 - Jardim das Margaridas",credito,vitoria.oliveira62@outlook.com,Senha33,usuario
+10773500511,Letícia Souza,"Rua das Begônias, 234 - Vila das Begônias",debito,anderson.pereira54@yahoo.com.br,Senha34,usuario
+99405710158,Henrique Almeida,"Rua dos Cravos, 567 - Jardim dos Cravos",pix,bruna.pinheiro96@hotmail.com,Senha35,usuario
+33850961186,Juliana Carvalho,"Avenida das Rosas Vermelhas, 890 - Jardim das Rosas Vermelhas",boleto,renan.pinto53@gmail.com,Senha36,usuario
+52392788309,Matheus Santos,"Rua dos Jasmins, 123 - Parque dos Jasmins",credito,vanessa.queiroz82@outlook.com,Senha37,usuario
+10026732974,Beatriz Castro,"Rua das Lavandas, 456 - Vila das Lavandas",debito,gustavo.ramos78@yahoo.com.br,Senha38,usuario
+97188270546,Thiago Ferreira,"Avenida das Calandivas, 789 - Jardim das Calandivas",pix,amanda.reis36@hotmail.com,Senha39,usuario
+71481093647,Fernanda Almeida,"Rua das Petúnias, 321 - Vila das Petúnias",boleto,ricardo.ribeiro47@gmail.com,Senha40,usuario
+13829180325,André Ribeiro,"Rua dos Hibiscos, 654 - Jardim dos Hibiscos",credito,rafael.rocha91@outlook.com,Senha41,adm
+38864876761,Isabela Oliveira,"Avenida dos Crisântemos, 987 - Parque dos Crisântemos",debito,larissa.rodrigues26@yahoo.com.br,Senha42,usuario
+61530121296,Vinícius Silva,"Rua das Gérberas, 234 - Vila das Gérberas",pix,samuel.santos48@hotmail.com,Senha43,usuario
+86959415933,Nathalia Costa,"Rua das Margaridas Amarelas, 567 - Jardim das Margaridas Amarelas",boleto,jessica.silva72@gmail.com,Senha44,usuario
+74818295017,Bruno Cardoso,"Avenida das Azaléias Rosas, 890 - Vila das Azaléias Rosas",credito,rodrigo.soares95@outlook.com,Senha45,usuario
+99887475443,Luana Rodrigues,"Rua das Orquídeas Brancas, 123 - Parque das Orquídeas Brancas",debito,gabriela.souza54@yahoo.com.br,Senha46,usuario
+19625823509,Pedro Henrique Castro,"Rua dos Pinheiros Gigantes, 456 - Vila dos Pinheiros Gigantes",pix,caio.tavares31@hotmail.com,Senha47,usuario
+53438278771,Mariana Ferreira,"Avenida dos Ipês Amarelos, 789 - Jardim dos Ipês Amarelos",boleto,carla.teixeira48@gmail.com,Senha48,usuario
+80162503722,Rafael Oliveira,"Rua das Acácias Vermelhas, 321 - Parque das Acácias Vermelhas",credito,lucas.vieira79@outlook.com,Senha49,usuario
+25446076320,Yasmin Ribeiro,"Rua dos Girassóis Amarelos, 654 - Vila dos Girassóis Amarelos",debito,mariana.xavier36@yahoo.com.br,Senha50,usuario
+45445651576,Gustavo Mendes,"Avenida das Rosas Brancas, 987 - Jardim das Rosas Brancas",pix,andrea.albuquerque23@hotmail.com,Senha51,adm
+64752853561,Ana Luiza Alves,"Rua das Bromélias Vermelhas, 234 - Vila das Bromélias Vermelhas",boleto,daniel.azevedo69@gmail.com,Senha52,usuario
+75712204872,Gabriel Ferreira,"Rua dos Lírios Azuis, 567 - Parque dos Lírios Azuis",credito,adriana.batista96@outlook.com,Senha53,usuario
+34940765283,Carolina Oliveira,"Avenida das Hortênsias Azuis, 890 - Jardim das Hortênsias Azuis",debito,rafaela.braga57@yahoo.com.br,Senha54,usuario
+86885828225,Pedro Rodrigues,"Rua das Tulipas Vermelhas, 123 - Parque das Tulipas Vermelhas",pix,fernando.castro84@hotmail.com,Senha55,usuario
+57053019890,Manuela Souza,"Rua dos Cravos Vermelhos, 456 - Vila dos Cravos Vermelhos",boleto,marina.costa97@gmail.com,Senha56,usuario
+24654719760,Lucas Almeida,"Avenida dos Pinheiros Anões, 789 - Jardim dos Pinheiros Anões",credito,camila.cunha62@outlook.com,Senha57,usuario
+90796534700,Luiza Costa,"Rua das Margaridas Rosas, 321 - Vila das Margaridas Rosas",debito,leandro.domingues19@yahoo.com.br,Senha58,usuario
+19084487629,Renato Castro,"Rua das Acácias Amarelas, 654 - Parque das Acácias Amarelas",pix,carolina.fonseca36@hotmail.com,Senha59,usuario
+69835812869,Rafaela Santos,"Avenida dos Girassóis Vermelhos, 987 - Jardim dos Girassóis Vermelhos",boleto,rodrigo.goncalo83@gmail.com,Senha60,usuario
+95347204546,Rodrigo Alves,"Rua das Orquídeas Azuis, 234 - Vila das Orquídeas Azuis",credito,bruna.leite95@outlook.com,Senha61,adm
+36707307864,Júlia Ribeiro,"Rua dos Pinheiros Verdes, 567 - Parque dos Pinheiros Verdes",debito,guilherme.lobo74@yahoo.com.br,Senha62,usuario
+10588198207,Felipe Oliveira,"Avenida das Azaléias Amarelas, 890 - Jardim das Azaléias Amarelas",pix,larissa.marinho29@hotmail.com,Senha63,usuario
+28351136141,Giovanna Carvalho,"Rua das Rosas Laranjas, 123 - Vila das Rosas Laranjas",boleto,marcela.mendonca62@hotmail.com,Senha64,usuario
+61848962120,Henrique Lima,"Rua dos Hibiscos Vermelhos, 456 - Parque dos Hibiscos Vermelhos",credito,jessica.miranda74@gmail.com,Senha65,usuario
+60102961843,Amanda Souza,"Avenida das Orquídeas Brancas, 789 - Jardim das Orquídeas Brancas",debito,leonardo.monteiro28@outlook.com,Senha66,usuario
+42672905502,Gustavo Oliveira,"Rua das Margaridas Roxas, 321 - Vila das Margaridas Roxas",pix,maria.novaes13@yahoo.com.br,Senha67,usuario
+44715843126,Marcela Santos,"Rua dos Pinheiros Anãos, 654 - Parque dos Pinheiros Anãos",boleto,victor.oliveira46@hotmail.com,Senha68,usuario
+70693492623,Rodrigo Costa,"Avenida das Tulipas Vermelhas, 987 - Jardim das Tulipas Vermelhas",credito,camila.pereira92@gmail.com,Senha69,usuario
+39056905287,Thaís Almeida,"Rua das Orquídeas Roxas, 234 - Vila das Orquídeas Roxas",debito,lucas.pinheiro83@outlook.com,Senha70,usuario
+55379036813,Vinícius Ferreira,"Rua dos Girassóis Roxos, 567 - Parque dos Girassóis Roxos",pix,mariana.queiroz47@yahoo.com.br,Senha71,adm
+67728678725,Priscila Ribeiro,"Avenida das Margaridas Amarelas, 890 - Jardim das Margaridas Amarelas",boleto,matheus.ribeiro28@hotmail.com,Senha72,usuario
+30946169575,Leonardo Castro,"Rua das Azaléias Rosas, 123 - Vila das Azaléias Rosas",credito,bruno.rodrigues73@gmail.com,Senha73,usuario
+86795082232,Sofia Silva,"Rua dos Crisântemos Brancos, 456 - Parque dos Crisântemos Brancos",debito,patricia.santana58@outlook.com,Senha74,usuario
+14181062254,Guilherme Alves,"Avenida das Orquídeas Amarelas, 789 - Jardim das Orquídeas Amarelas",pix,julio.silveira27@yahoo.com.br,Senha75,usuario
+68112912362,Carolina Mendes,"Rua das Rosas Vermelhas, 321 - Vila das Rosas Vermelhas",boleto,marina.tavares65@hotmail.com,Senha76,usuario
+25988263475,Lucas Oliveira,"Rua dos Girassóis Laranjas, 654 - Parque dos Girassóis Laranjas",credito,guilherme.vieira78@gmail.com,Senha77,usuario
+39625115209,Fernanda Rodrigues,"Avenida das Margaridas Roxas, 987 - Jardim das Margaridas Roxas",debito,bruna.almeida42@outlook.com,Senha78,usuario
+43835499876,Eduardo Lima,"Rua das Azaléias Amarelas, 234 - Vila das Azaléias Amarelas",pix,thiago.andrade75@yahoo.com.br,Senha79,usuario
+67031201801,Isabella Souza,"Rua dos Crisântemos Vermelhos, 567 - Parque dos Crisântemos Vermelhos",boleto,luciana.araujo63@hotmail.com,Senha80,usuario
+81288637454,Vinícius Mendes,"Avenida das Orquídeas Vermelhas, 890 - Jardim das Orquídeas Vermelhas",credito,rodrigo.barbosa48@gmail.com,Senha81,adm
+66127667919,Mariana Almeida,"Rua das Rosas Brancas, 123 - Vila das Rosas Brancas",debito,amanda.borges16@outlook.com,Senha82,usuario
+18303669270,Pedro Henrique Ribeiro,"Rua dos Girassóis Azuis, 456 - Parque dos Girassóis Azuis",pix,marcos.cabral84@yahoo.com.br,Senha83,usuario
+10416119902,Luísa Castro,"Avenida das Margaridas Rosas, 789 - Jardim das Margaridas Rosas",boleto,luisa.campos39@hotmail.com,Senha84,usuario
+50005740516,Gustavo Costa,"Rua das Azaléias Roxas, 321 - Vila das Azaléias Roxas",credito,bruno.cardoso26@gmail.com,Senha85,usuario
+91053708736,Giovanna Oliveira,"Rua dos Crisântemos Amarelos, 654 - Parque dos Crisântemos Amarelos",debito,daniela.carvalho61@outlook.com,Senha86,usuario
+74660410992,André Alves,"Avenida das Orquídeas Laranjas, 987 - Jardim das Orquídeas Laranjas",pix,marcelo.castilho43@yahoo.com.br,Senha87,usuario
+61324592150,Lívia Rodrigues,"Rua das Rosas Roxas, 234 - Vila das Rosas Roxas",boleto,patricia.cavalcanti88@hotmail.com,Senha88,usuario
+79339921803,Matheus Silva,"Rua dos Girassóis Brancos, 567 - Parque dos Girassóis Brancos",credito,andre.correia58@gmail.com,Senha89,usuario
+22487654862,Ana Carolina Almeida,"Avenida das Margaridas Vermelhas, 890 - Jardim das Margaridas Vermelhas",debito,larissa.costa51@outlook.com,Senha90,usuario
+98194991850,Rafael Ferreira,"Rua das Azaléias Brancas, 123 - Vila das Azaléias Brancas",pix,luiz.couto76@yahoo.com.br,Senha91,adm
+71819832813,Amanda Oliveira,"Rua dos Crisântemos Laranjas, 456 - Parque dos Crisântemos Laranjas",boleto,carolina.cruz94@hotmail.com,Senha92,usuario
+52687787053,Thiago Castro,"Avenida das Orquídeas Roxas, 789 - Jardim das Orquídeas Roxas",credito,gabriela.dias17@gmail.com,Senha93,usuario
+68583161606,Bruna Ribeiro,"Rua das Rosas Amarelas, 321 - Vila das Rosas Amarelas",debito,vinicius.faria22@outlook.com,Senha94,usuario
+87615156109,Júlia Costa,"Rua dos Girassóis Vermelhos, 654 - Parque dos Girassóis Vermelhos",pix,isabela.felix64@yahoo.com.br,Senha95,usuario
+31109639946,Guilherme Souza,"Avenida das Margaridas Laranjas, 987 - Jardim das Margaridas Laranjas",boleto,jessica.ferreira97@hotmail.com,Senha96,usuario
+89030762533,Mariana Mendes,"Rua das Azaléias Vermelhas, 234 - Vila das Azaléias Vermelhas",credito,carlos.figueiredo74@gmail.com,Senha97,usuario
+17852316834,Leonardo Oliveira,"Rua dos Crisântemos Roxos, 567 - Parque dos Crisântemos Roxos",debito,luana.freitas81@outlook.com,Senha98,usuario
+45127675691,Ana Luiza Ferreira,"Avenida das Orquídeas Azuis, 890 - Jardim das Orquídeas Azuis",pix,julio.gomes62@yahoo.com.br,Senha99,usuario
+84742099293,Vinícius Almeida,"Rua das Rosas Laranjas, 123 - Vila das Rosas Laranjas",boleto,camila.goncalves43@hotmail.com,Senha100,usuario
